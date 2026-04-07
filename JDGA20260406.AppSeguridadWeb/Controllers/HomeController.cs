@@ -23,3 +23,4 @@ namespace JDGA20260406.AppSeguridadWeb.Controllers
         }
     }
 }
+
